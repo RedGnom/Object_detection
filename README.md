@@ -1,0 +1,1 @@
+Задача по распознаванию объектов. Использовалась модель Yolov8 medium, обученная на датасете из 227 изображений [Датасет](https://universe.roboflow.com/plantrecognition-kd7na/plant-recognition-wbhud/dataset/1)
