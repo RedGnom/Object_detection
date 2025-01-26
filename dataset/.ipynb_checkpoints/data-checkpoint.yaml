@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['daisy', 'dandelion', 'rose', 'sunflower', 'tulip']
+
+roboflow:
+  workspace: plantrecognition-kd7na
+  project: plant-recognition-wbhud
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/plantrecognition-kd7na/plant-recognition-wbhud/dataset/1
